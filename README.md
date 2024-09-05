@@ -40,7 +40,6 @@ This is a Laravel-based Todo application that uses AJAX for dynamic interactions
 
 2.**Install Dependencies**
 
-    ```bash
     composer install
     npm install
 
@@ -48,7 +47,6 @@ This is a Laravel-based Todo application that uses AJAX for dynamic interactions
 **Set Up Environment**
 Copy the .env.example file to .env and update your environment settings:
 
-    ```bash
     cp .env.example .env
 
     php artisan key:generate
